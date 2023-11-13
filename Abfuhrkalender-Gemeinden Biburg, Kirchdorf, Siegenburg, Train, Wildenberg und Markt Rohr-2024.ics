@@ -1,0 +1,805 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Abfuhrkalender-Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr-2024
+PRODID:-//awido.cubefour.de//iCal
+X-WR-CALDESC:Abfuhrkalender
+X-WR-TIMEZONE:Europe/Berlin
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240812T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240812
+DTEND;VALUE=DATE:20240813
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240223T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240408T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240408
+DTEND;VALUE=DATE:20240409
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240521T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240521
+DTEND;VALUE=DATE:20240522
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240617T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240617
+DTEND;VALUE=DATE:20240618
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240215T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240215
+DTEND;VALUE=DATE:20240216
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240701T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240701
+DTEND;VALUE=DATE:20240702
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240606T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240606
+DTEND;VALUE=DATE:20240607
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241118T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241119
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240510T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241216T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241217
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240422T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240423
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240314T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240314
+DTEND;VALUE=DATE:20240315
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240126T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240127
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20241121T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240322T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240411T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240311T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240312
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240712T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240801T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240802
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240506T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240507
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241202T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241203
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240226T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240227
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240603T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240603
+DTEND;VALUE=DATE:20240604
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240909T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240910
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241007T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241008
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241104T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241105
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240419T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240420
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240923T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240924
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240115T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240115
+DTEND;VALUE=DATE:20240116
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20241024T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240829T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240829
+DTEND;VALUE=DATE:20240830
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240926T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20240927
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240729T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240729
+DTEND;VALUE=DATE:20240730
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240129T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240129
+DTEND;VALUE=DATE:20240130
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240704T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240704
+DTEND;VALUE=DATE:20240705
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240323T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240324
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240715T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240715
+DTEND;VALUE=DATE:20240716
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241021T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241022
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20241129T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240614T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240212T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240809T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20241228T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20240118T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240118
+DTEND;VALUE=DATE:20240119
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-DSD-20241219T000000
+SUMMARY:Gelber Sack in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241219
+DTEND;VALUE=DATE:20241220
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20241230T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20241231
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20241005T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240517T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20241102T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-PA-20240906T000000
+SUMMARY:Papierabfuhr in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240907
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240102T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240103
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AWIDO-RM-20240826T000000
+SUMMARY:Restmüll in Gemeinden Biburg, Kirchdorf, Siegenburg, Train, Wildenberg und Markt Rohr
+DTSTART;VALUE=DATE:20240826
+DTEND;VALUE=DATE:20240827
+DTSTAMP:20231113T000000Z
+LOCATION:Gemeinden Biburg; Kirchdorf; Siegenburg; Train; Wildenberg und Markt Rohr; Rohr
+TRANSP:TRANSPARENT
+SEQUENCE:0
+CLASS:PUBLIC
+PRIORITY:9
+STATUS:CONFIRMED
+URL:http://www.landkreis-kelheim.de
+END:VEVENT
+
+END:VCALENDAR
